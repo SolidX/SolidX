@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolidX
 - 🌱 I’m currently learning
-  - ✨ Blazor
+  - ✨ Service Workers
   - 🤢 Power BI
 - 📫 How to reach me:
   - 🐘 Mastodon: [@Solidx@mstdn.jp](https://mstdn.jp/web/@SolidX)
